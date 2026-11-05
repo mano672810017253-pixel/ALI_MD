@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-<img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/name.svg" width="400" alt="Arslan-MD Logo"/>
+<img src="https://github.com/Arslan-MD/Ali-MD/blob/main/name.svg" width="400" alt="Ali-MD Logo"/>
 
 </h1>
 
-[![Arslan-MD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arslan+MD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-Lahore;Nice+to+Meet+You)](https://github.com/Arslan-MD)
+[![Arslan-MD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Ali-MD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-Lahore;Nice+to+Meet+You)](https://github.com/Ali-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -21,9 +21,9 @@
  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arslan-MD&show_icons=true&locale=en&layout=compact" alt="Arslan-MD" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arslan-MD&show_icons=true&locale=en&layout=compact" alt="Ali-MD" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&locale=en" alt="Arslan-MD" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-MD&show_icons=true&locale=en" alt="Ali-MD" /></p>
 
 
 
@@ -36,16 +36,16 @@
 
 <div align="center">
   <!-- Stats graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-MD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
   <!-- Language graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arslan-MD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-MD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
   <!-- Trophy graph -->
-  <img src="https://github-profile-trophy.vercel.app?username=Arslan-MD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Ali-MD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
   <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan-MD&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-MD&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 
@@ -61,20 +61,20 @@
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/Arslan-MD/Arslan_MD">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Arslan-MD/Ali-MD">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Arslan-MD/Arslan-Tech-Bot">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Arslan-MD/Ali-Tech-Bot">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Ali-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Arslan-MD/Arslan-Ai">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-MD&repo=Arslan-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Arslan-MD/IvaSms-api">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
