@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<img src="https://github.com/Arslan-MD/Ali-MD/blob/main/name.svg" width="400" alt="Ali-MD Logo"/>
+<img src="https://github.com/Ali-MD/Ali-MD/blob/main/name.svg" width="400" alt="Ali-MD Logo"/>
 
 </h1>
 
